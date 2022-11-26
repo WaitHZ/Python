@@ -16,6 +16,6 @@ I have learned the following, so the corresponding programs and projects are bas
 
 ## Items already in the repository
 
-1. TerminalVote: A terminal program used to count the results of a certain vote in a local area network.
-2. Student Manage System: 
+1. **Terminal Voting in LAN**:  A terminal program used to count the results of a certain vote in a local area network.
+2. **Grade Inquiry System**: A Chinese terminal performance management system.
 
