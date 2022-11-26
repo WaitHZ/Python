@@ -17,7 +17,5 @@ I have learned the following, so the corresponding programs and projects are bas
 ## Items already in the repository
 
 1. TerminalVote: A terminal program used to count the results of a certain vote in a local area network.
-2. Statistics for college grades: A Chinese useful tool for statistical analysis of grades through the command line.
-
-
+2. Student Manage System: 
 
