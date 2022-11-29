@@ -18,7 +18,8 @@ When you have prepared web page data but have no way to run it on your server, y
 1. Enter the following command in the project root directory:
 
 ```
-python ./src/staticweb.py (port)
+cd ./src
+python staticweb.py (port)
 ```
 
 You can specify the port, if you don't, the default port is 8080.
