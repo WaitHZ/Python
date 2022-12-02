@@ -118,6 +118,10 @@ h1 {
 	cursor: pointer;
 }
 
+.sub_button:hover {
+	background: skyblue;
+}
+
 .card_body {
 	margin-left: 75px;
 	margin-right: 76px;
@@ -177,6 +181,10 @@ h2 {
 	margin-bottom: 4px;
 
 	float: left;
+}
+
+.href:hover, .href_right:hover{
+	background: lightgray;
 }
 
 a {
