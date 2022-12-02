@@ -1,0 +1,207 @@
+@charset "gbk";
+
+body {
+	margin: 0px;
+	width: 1351px;
+
+	background: white;
+}
+
+.top {
+	width: 1351px;
+	height: 50px;
+
+	padding-left: 120px;
+	margin: 0px;
+}
+
+h1 {
+	text-align: left;
+	font-size: 28px;
+	font-family: 'Microsoft Yahei';
+	font-weight: normal;
+
+	display: inline;
+
+	margin: 0px;
+}
+
+.ico {
+	float: left;
+
+	padding-top: 5px;
+}
+
+.headline1 {
+	float: left;
+	padding-top: 5px;
+}
+
+.body {
+	background: #EAEDED;
+
+	width: 1351px;
+	height: 950px;
+}
+
+.search {
+	width: 751px;
+	height: 50px;
+
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-bottom: 30px;
+	padding-top: 80px;
+
+	background: #EAEDED;
+}
+
+.search_inner {
+	background: white;
+
+	width: 751px;
+	height: 50px;
+
+	margin: 0px;
+}
+
+.search_logo {
+	width: 50px;
+	height: 50px;
+
+	float: left;
+}
+
+.search_text{
+	width: 600px;
+	height: 50px;
+
+	float: left;
+}
+
+.search_input{
+	width: 598px;
+	height: 50px;
+	padding: 0px;
+	padding-left: 2px;
+	border-width: 0px;
+
+	font-size: 24px;
+
+	outline: none;
+}
+
+.search_submit {
+	height: 50px;
+	width: 101px;
+
+	font-size: 25px;
+	
+	border-width: 0px;
+
+	text-align: center;
+
+	background: #D6EAF8;
+
+	float: right;
+}
+
+.sub_button {
+	height: 50px;
+	width: 101px;
+
+	border-width: 0px;
+	background: #D6EAF8;
+
+	font-size: 25px;
+
+	cursor: pointer;
+}
+
+.card_body {
+	margin-left: 75px;
+	margin-right: 76px;
+
+	width: 1200px;
+	height: 600px;
+}
+
+.card_left {
+	margin-left: 30px;
+
+	width: 365px;
+
+	float: left;
+}
+
+.card_center {
+	margin-left: 23px;
+	margin-right: 22px;
+
+	width: 365px;
+
+	float: left;
+}
+
+.card_right {
+	margin-right: 30px;
+
+	width: 365px;
+
+	float: left;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.href {
+	width: 119px;
+	height: 50px;
+
+	background: white;
+
+	margin-right: 4px;
+	margin-bottom: 4px;
+
+	float: left;
+}
+
+.href_right {
+	width: 119px;
+	height: 50px;
+
+	background: white;
+
+	margin-bottom: 4px;
+
+	float: left;
+}
+
+a {
+	width: 119px;
+	height: 38px;
+
+	padding-top: 12px;
+
+	text-align: center;
+	text-decoration: none;
+
+	color: black;
+
+	display: block;
+}
+
+.end {
+	width: 1351px;
+	height: 40px;
+
+	background: white;
+}
+
+p {
+	text-align: center;
+
+	color: gray;
+}
